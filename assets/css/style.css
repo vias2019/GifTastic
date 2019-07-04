@@ -1,0 +1,42 @@
+body {
+    margin: 15px;
+}
+
+form {
+    float: right;
+    padding: 5px;
+    max-width: 50%;
+}
+
+.new-animal{
+    font-weight: bold;
+}
+
+#add-animal-input {
+    max-width: 400px;
+}
+
+.btn-primary {
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+}
+
+#gifs {
+    max-width: 80%;
+    padding: 15px;
+}    
+button {
+    margin: 5px;
+}
+img {
+    margin: 2px;
+    margin-top: 0px;
+}
+p {
+    max-width: fit-content;
+    margin: 0px;
+    padding: 0px;
+}
+span {
+    float: left;
+}
