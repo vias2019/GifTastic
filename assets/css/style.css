@@ -36,6 +36,7 @@ p {
     max-width: fit-content;
     margin: 0px;
     padding: 0px;
+    font-weight: bold;
 }
 span {
     float: left;
