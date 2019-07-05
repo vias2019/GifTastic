@@ -2,7 +2,7 @@ $(document).ready(function () {
     var key = 'cqK2VQpfnHFwxrrT3fgPGu65tLCi3HSL';
     var rating;
     var animalSearch;
-    var buttonArray = ["dog", "cat", "rabbit", "hamster", "skunk", "goldfish", "bird", "turtle", "chicken", "frog", "dear", "fox", "wolf"];
+    var buttonArray = ["cat", "rabbit", "hamster", "skunk", "goldfish", "bird", "turtle", "chicken", "frog", "dear", "fox", "wolf"];
 
     function renderButton() {
         $("#animalButtons").empty();
